@@ -1,0 +1,19 @@
+{
+  "name": "js-vat",
+  "version": "1.0.0",
+  "description": "js Vat module for kayako",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kayako/js-vat.git"
+  },
+  "author": "kayako",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kayako/js-vat/issues"
+  },
+  "homepage": "https://github.com/kayako/js-vat#readme"
+}
